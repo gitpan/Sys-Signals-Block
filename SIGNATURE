@@ -14,20 +14,21 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c5cecfa2fde894541b5dd8ce845a5edf179a70b7 Changes
-SHA1 c5b44ed1cf0bf2c2d686d8e5254d740139938c80 MANIFEST
+SHA1 49ead74763da1a6f5df00d2dddc5c62bd2511002 Changes
+SHA1 05fd49d77ec71eba534aac7c00c5fac14f82b2ce MANIFEST
 SHA1 417354a28da0ca06ef13e91a2bdfb614e2b7b5cb MANIFEST.SKIP
-SHA1 1f27182b4408a7c771ef1e8fab796c96bdf584d3 META.yml
+SHA1 235755d27cd600de1e65faef12d49a39090e2fb8 META.yml
 SHA1 2fc6a40acf4cf504e3aec73d7dee4d2265da39dd Makefile.PL
 SHA1 1cd9cf552e825e5dcc82cd152483b554c8f5222a README
-SHA1 afd899220eb9e8353fab5de4037bd191ae08448e lib/Sys/Signals/Block.pm
+SHA1 ee8f359abf06c4c248c85fbb7c630a3fb88ce19d lib/Sys/Signals/Block.pm
 SHA1 ae857a0f2f63d8b21fded08de181a20168e786a2 t/block.t
 SHA1 2f7ea4817fdbfea1c141924923d907c6d394f351 t/compile.t
-SHA1 c9a038b5e31bd964d788f004cafbc73e08021d9c t/signals.t
+SHA1 5c8d1917fe9f9344522f1a4fda84e36f32280b9e t/signals.t
+SHA1 8db033d1411fc0b94c78c8a5c47620ab9ef0fcf8 t/signature.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.9 (GNU/Linux)
+Version: GnuPG/MacGPG2 v2.0.12 (Darwin)
 
-iEYEARECAAYFAkrmGZwACgkQ+CqvSzp9LOyCGwCgmMMYZOBk1pIucRrmnN3P1CDf
-i94AnRPCMLr1EvJOpJcOUYmhuYjfqfea
-=ooOt
+iD8DBQFK5mr9+CqvSzp9LOwRApgGAKCzFOtc60zERm2zABRt10+Y4DtRQACeK/+U
+vAnUkumbto3fzrA0Lzyga6c=
+=SRQG
 -----END PGP SIGNATURE-----

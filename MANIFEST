@@ -7,5 +7,6 @@ README
 t/block.t
 t/compile.t
 t/signals.t
+t/signature.t
 META.yml                                 Module meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)
